@@ -1,0 +1,53 @@
+.cabeza{
+    background-color:white;
+    width: 1300px;
+    height: 130px;
+}
+.colormedio {
+    background-color: brown;
+    width: 1405px;
+    height: 50px;
+}
+
+body{
+    background-color:white;
+    color:brown;
+
+}
+
+.circular {
+width :140px;
+height:140px;
+display: block;
+margin: 2px auto;
+border-radius: 150px;
+margin-left: -12px;
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    font-size: 100px;
+}
+h2{
+    font-family: 'Rubik Glitch', cursive;
+}
+.featurette-heading{
+    color: black;
+}
+h5{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table ,tr, td{
+    background-color: gainsboro;
+    border: 2px solid aliceblue;
+    border-collapse: collapse;
+    padding: 3px;
+    color: black;
+
+    } 
+th {
+    color: black;
+    font-size: large;
+}
